@@ -1,0 +1,25 @@
+{
+   "title":"Eudoxia",
+   "description":"Eudoxia",
+   "artist":"Storm",
+   "author":"Emma",
+   "cover":"https://i.imgur.com/v4HMvgF.png",
+   "chapters":{
+      "1":{
+         "title":"Intro Comic - Round 7 Grand Battle",
+         "volume":"1",
+         "groups":{
+            "Eudoxia":"/proxy/api/imgur/chapter/HeMtBkJ/"
+         },
+         "last_updated":"1616368746"
+      },
+      "2":{
+         "title":"Grand Battle: Vs 28 Quicksilver",
+         "volume":"1",
+         "groups":{
+            "Eudoxia":"/proxy/api/imgur/chapter/bjnvaxy/"
+         },
+         "last_updated":"1616368746"
+      }
+   }
+}
